@@ -1,0 +1,9 @@
+D:\Dunja\aus\kolokvijum\dCom\Modbus\bin\Debug\Modbus.dll
+D:\Dunja\aus\kolokvijum\dCom\Modbus\bin\Debug\Modbus.pdb
+D:\Dunja\aus\kolokvijum\dCom\Modbus\bin\Debug\Common.dll
+D:\Dunja\aus\kolokvijum\dCom\Modbus\bin\Debug\Common.pdb
+D:\Dunja\aus\kolokvijum\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+D:\Dunja\aus\kolokvijum\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\Dunja\aus\kolokvijum\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
+D:\Dunja\aus\kolokvijum\dCom\Modbus\obj\Debug\Modbus.dll
+D:\Dunja\aus\kolokvijum\dCom\Modbus\obj\Debug\Modbus.pdb
